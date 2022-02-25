@@ -1,0 +1,24 @@
+{
+  "name": "global-json-mask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GusttaH/json-mask.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GusttaH/json-mask/issues"
+  },
+  "homepage": "https://github.com/GusttaH/json-mask#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
