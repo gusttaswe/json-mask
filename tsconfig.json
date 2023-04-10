@@ -9,6 +9,8 @@
       "paths": {
         "@shared/*": ["shared/*"],
         "@modules/*": ["modules/*"],
+        "@services/*": ["services/*"],
+        "@domains/*": ["domains/*"]
       },
     },
     "include": ["src"],

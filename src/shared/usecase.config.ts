@@ -1,5 +1,4 @@
-import { Result } from './result.config';
 
-export abstract class UseCase<T, R, E> {
-  public abstract execute(dto: T): Promise<Result<R, E>>;
+export abstract class UseCase {
+  public abstract execute(dto: any);
 }
